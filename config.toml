@@ -1,0 +1,58 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Become a speaker at DevFest Toulouse!"
+theme = "dot"
+defaultContentLanguage = "en"
+googleAnalytics="UA-37717223-9"
+
+
+############################# Default Parameters ##########################
+[params]
+# logo is for all page
+logo = "images/logo_text.svg"
+# logo white is for homepage
+logoWhite = "images/logo_text_white.svg"
+jumboBackground = "images/banner.jpg"
+
+# customize color
+primaryColor = "#0E9D58"
+secondaryColor = "#f9f9f9"
+textColor = "#636363"
+textColorDark = "#242738"
+whiteColor = "#ffffff"
+
+############################## social links ##############################
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+link = "https://twitter.com/DevFestToulouse"
+
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "https://linkedin.com/company/gdg-toulouse"
+
+[[params.social]]
+icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.youtube.com/channel/UCx83f-KzDd3o1QK2AdJIftg"
+
+[[params.social]]
+icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.facebook.com/GDGToulouse"
+
+################################# language ################################
+[Languages]
+
+  ################################ English Language ######################
+  [Languages.en]
+  languageName = "En"
+  languageCode = "en-us"
+  weight = 1
+  home = "Home"
+  copyright = "[qwanturank](https://qwanturank.live/)"
+
+    # navigation
+    [Languages.en.menu]
+
+      [[Languages.en.menu.main]]
+        weight = 2
+        name = "DevFest Toulouse 2020"
+        url = "https://devfesttoulouse.fr/"

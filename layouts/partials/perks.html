@@ -1,0 +1,26 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ with $data.perks }}
+    {{ if .enable }}
+    <section id="perks" class="section bg-primary">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12 text-center">
+            <h2 class="section-title">{{ .title }}</h2>
+          </div>
+          <div class="col-12 bg-white ">
+            {{ range .item }}
+            <div class="media text-muted pt-3">
+              <img src="images/checkbox.svg" style="width: 30px;" class="mr-2"  />
+              <p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+                <strong class="d-block text-gray-dark">{{ .name }}</strong>
+                {{ .description }}
+              </p>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </section>
+    {{ end }}
+{{ end }}

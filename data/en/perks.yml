@@ -1,0 +1,11 @@
+enable: true
+title: Perks
+item:
+  - name: Conference ticket
+    description: Of course, you will have access to the entire conference
+  - name: Travel (only for the conference format)
+    description: We cover up to 250€ for people coming from Europe (more if from outside of Europe)
+  - name: Accomodation
+    description: We offer you up to 2 nights in a nice Hotel at walking distance of the conference venue
+  - name: Speaker dinner
+    description: You will be invited at the speaker dinner that usually happens the night before the conference

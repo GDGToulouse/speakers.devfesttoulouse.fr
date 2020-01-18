@@ -1,0 +1,35 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ with $data.speakers }}
+    {{ if .enable }}
+    <section id="speakers" class="section">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12 text-center">
+            <h2 class="section-title"> {{ .title }} </h2>
+          </div>
+          {{ range where .item "featured" true | shuffle }}
+          <div class="col-lg-3 col-sm-6 mb-4">
+            {{ partial "speaker.html" . }}
+          </div>
+          {{ end }}
+        </div>
+        <div class="text-center">
+          <a class="btn btn-primary" id="speakers-more" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+            See all our amazing speakers ({{ len .item }})
+          </a>
+          <script>
+            $("#speakers-more").on('click', () => $("#speakers-more").remove());
+          </script>
+        </div>
+        <div class="collapse row justify-content-center" id="collapseExample">
+          {{ range where .item "featured" "!=" true | shuffle }}
+          <div class="col-lg-3 col-sm-6 mb-4">
+            {{ partial "speaker.html" . }}
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </section>
+    {{ end }}
+{{ end }}

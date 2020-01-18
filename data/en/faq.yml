@@ -1,0 +1,55 @@
+enable: true
+title: FAQ
+items:
+  - title: What are the categories ?
+    content: >
+      * Big Data / ML / AI : Big Data, Machine Learning, AI
+
+      * Cloud/infra : GCP, AWS, Azure, Kubernetes etc.
+
+      * IoT
+
+      * Languages : talk related to a specific language e.g: Rust, Golang, Swift etc.
+
+      * Methods & Tools : Craftsmanship, DevOps, CD, CI, IaC (Infrastructure as Code) etc.
+
+      * Native mobile apps : Android, iOS, React Native, Flutter etc.
+
+      * Web : PWA, Web Components, services workers etc.
+
+      * UX
+
+      * WTF and other : if your talk does not fit in any of the previous categories.
+
+  - title: What type of talk formats do you have ?
+    content: >
+      * **Lightning talks**: **20 minutes**, no questions.
+
+      * **Conferences**, **50 minutes** including questions.
+
+  - title: Can I submit a talk with another speaker ?
+    content: Yes but 2 maximum (you included). On the CFP website, fill in the e-mail of the other speaker, they must have previously registered on the CFP with the same address.
+
+  - title: How do you handle travel expenses ?
+    content: >
+      **We are a non profit conference, organized by volonteers** so please, if your company can afford your travel and accomodation or if you are GDE/MVP, please use that instead.
+      <br/>
+      If no one can afford your travel, we will get the plane/train tickets for you. As soons as you are selected, please send us the list of prefered journey and we will get it for you.
+
+  - title: How many propositions do you have every year ?
+    content: >
+      We have more and more propositions every year. Last year we had around 500 propositions
+
+  - title: What is the expected format for slides?
+    content: >
+      There is no specific format. However **we dare you** to place the word "chocolatine" in your slides!
+      <br/>
+      To understand the reference: https://www.thelocal.fr/20170119/pastry-wars-is-it-a-pain-au-chocolat-or-a-chocolatine
+      <br/>
+      #teamChocolatine
+
+  - title: Can I get a ticket even if I am not selected?
+    content: >
+      Tickets sell very fast, but don't worry, we reserve tickets for speakers that are not selected.
+      <br/>
+      The price will be the normal price.

@@ -1,0 +1,484 @@
+enable: true
+title: They already joined us!
+item:
+  # 2019
+  - name: ADRIEN ANCEAU
+    photo: /speakers/2019/adrien_anceau.jpg
+    link: https://twitter.com/aaadrieeen
+
+  - name: Alessio Coltellacci
+    photo: /speakers/2019/alessio_coltellacci.jpg
+    link: https://twitter.com/lightplay8
+
+  - name: Aleksey Kladov
+    photo: /speakers/2019/aleksey_kladov.jpg
+    link: ''
+
+  - name: Andrew Radev
+    photo: /speakers/2019/andrew_radev.jpg
+    link: https://twitter.com/AndrewRadev
+
+  - name: Christian Fauré
+    photo: /speakers/2019/christian_faure.jpg
+    link: https://twitter.com/ChristianFaure
+
+  - name: Cédric Moulard
+    photo: /speakers/2019/cedric_moulard.jpg
+    link: https://twitter.com/cedric_moulard
+
+  - name: Clément Duffau
+    photo: /speakers/2019/clement_duffau.jpg
+    link: https://twitter.com/clement0210
+
+  - name: Christophe Jollivet
+    photo: /speakers/2019/christophe_jollivet.jpg
+    link: https://twitter.com/jollivetc
+
+  - name: Corentin Wallez
+    photo: /speakers/2019/corentin_wallez.png
+    link: https://twitter.com/DaKangz
+
+  - name: Cyril Delmas
+    photo: /speakers/2019/cyril_delmas.jpg
+    link: https://twitter.com/cyril_delmas
+
+  - name: Erik Rasmussen
+    featured: true
+    photo: /speakers/2019/erik_rasmussen.jpg
+    link: https://twitter.com/erikras
+
+  - name: Fabien Trégan
+    photo: /speakers/2019/fabien_tregan.jpg
+    link: https://twitter.com/ftregan
+
+  - name: Francois-Guillaume Ribreau
+    photo: /speakers/2019/francois_guillaume_ribreau.jpg
+    link: https://twitter.com/fgribreau
+
+  - name: François Teychene
+    photo: /speakers/2019/francois_teychene.jpg
+    link: https://twitter.com/fteychene
+
+  - name: Gautier Mechling
+    photo: /speakers/2019/gautier_mechling.jpg
+    link: https://twitter.com/Nilhcem
+
+  - name: fs0c131y
+    featured: true
+    photo: /speakers/2019/fs0c131y.jpg
+    link: https://twitter.com/fs0c131y
+
+  - name: Gilles Debunne
+    photo: /speakers/2019/gilles_debunne.jpg
+    link: https://twitter.com/gdebunne
+
+  - name: Guillaume Andrieu
+    photo: /speakers/2019/guillaume_andrieu.png
+    link: https://twitter.com/glmxndr
+
+  - name: Horacio Gonzalez
+    photo: /speakers/2019/horacio_gonzalez__lostinbrittany_.jpg
+    link: https://twitter.com/LostInBrittany
+
+  - name: Guillaume Smet
+    photo: /speakers/2019/guillaume_smet.jpg
+    link: https://twitter.com/gsmet_
+
+  - name: Jérémy Voisin
+    photo: /speakers/2019/jeremy_voisin.jpg
+    link: https://twitter.com/_JeremyVoisin_
+
+  - name: Liliia Abdulina
+    photo: /speakers/2019/liliia_abdulina.jpg
+    link: https://twitter.com/var_lynx
+
+  - name: Loïc Ortola
+    photo: /speakers/2019/loic_ortola.jpg
+    link: https://twitter.com/LoicOrtola
+
+  - name: Loïs Blanc
+    photo: /speakers/2019/lois_blanc.jpg
+    link: ''
+
+  - name: Marie Viley
+    featured: true
+    photo: /speakers/2019/marie_viley.jpg
+    link: https://twitter.com/marie_viley
+
+  - name: Mathieu Passenaud
+    photo: /speakers/2019/mathieu_passenaud.jpg
+    link:
+
+  - name: Mélanie Ducoffe
+    photo: /speakers/2019/melanie_ducoffe.jpg
+    link: https://twitter.com/mducoffe
+
+  - name: Nicolas Decoster
+    photo: /speakers/2019/nicolas_decoster.png
+    link: https://twitter.com/ogadaki
+
+  - name: Noël Macé
+    photo: /speakers/2019/noel_mace.jpg
+    link: https://twitter.com/noel_mace
+
+  - name: Juliane Blier
+    photo: /speakers/2019/juliane_blier.jpg
+    link: https://twitter.com/tactless7
+
+  - name: Olivier Leplus
+    photo: /speakers/2019/olivier_leplus.jpg
+    link: https://twitter.com/olivierleplus
+
+  - name: Piotr Przybyl
+    photo: /speakers/2019/piotr_przybyl.png
+    link: https://twitter.com/piotrprz
+
+  - name: Richard Fagot
+    photo: /speakers/2019/richard_fagot.jpg
+    link: https://twitter.com/richardfagot
+
+  - name: Yves Boyez
+    photo: /speakers/2019/qj7nbl6wiyug1rhqtxf818a46po1.jpg
+    link:
+
+  - name: Saskia Blanc
+    photo: /speakers/2019/saskia_blanc.jpg
+    link: https://twitter.com/SaskiaLois
+
+  - name: Sébastien Blanc
+    photo: /speakers/2019/sebastien_blanc.jpg
+    link: https://twitter.com/sebi2706
+
+  - name: Sébastien Brault
+    photo: /speakers/2019/sebastien_brault.png
+    link: https://twitter.com/sebastienbrault
+
+  - name: Steve Klabnik
+    featured: true
+    photo: /speakers/2019/steve_klabnik.jpg
+    link: https://twitter.com/steveklabnik
+
+  - name: Sylvain Wallez
+    photo: /speakers/2019/sylvain_wallez.jpg
+    link: https://twitter.com/bluxte
+
+  - name: Tiffany Souterre
+    featured: true
+    photo: /speakers/2019/tiffany_souterre.jpg
+    link: https://twitter.com/tiffanysouterre
+
+  - name: Theophile Wallez
+    photo: /speakers/2019/theophile_wallez.png
+    link: https://twitter.com/twallez
+
+  - name: Vincent Ogloblinsky
+    photo: /speakers/2019/vincent_ogloblinsky.jpg
+    link: https://twitter.com/vogloblinsky
+
+  - name: Valeriane Venance
+    photo: /speakers/2019/valeriane_venance.png
+    link: https://twitter.com/valeriane_IT
+
+  - name: Wassim Chegham
+    photo: /speakers/2019/wassim_chegham.jpg
+    link: https://twitter.com/manekinekko
+
+  # 2018
+
+  - name: Laurent Victorino
+    photo: /speakers/2018/laurent_victorino.jpg
+    link: https://twitter.com/on_code
+
+  - name: Quentin Adam
+    featured: true
+    photo: /speakers/2018/quentin_adam.jpg
+    link: https://twitter.com/waxzce
+
+  - name: Raúl Jiménez
+    photo: /speakers/2018/raul_jimenez.png
+    link: https://twitter.com/elecash
+
+  - name: Estelle Landry
+    featured: true
+    photo: /speakers/2017/estelle-landry.jpg
+    link: https://twitter.com/estelandry
+
+  - name: Laurent Wroblewski
+    photo: /speakers/2018/laurent_wroblewski.jpg
+    link: https://twitter.com/@LaurentWrob
+
+  - name: Hubert Sablonnière
+    featured: true
+    photo: /speakers/2018/hubert_sablonniere.jpg
+    link: https://twitter.com/hsablonniere
+
+  - name: David Gageot
+    photo: /speakers/2018/david_gageot.jpg
+    link: https://twitter.com/dgageot
+
+  - name: Philippe Charrière
+    photo: /speakers/2018/philippe_charriere.jpg
+    link: https://twitter.com/k33g_org
+
+  - name: Ane DIAZ DE TUESTA
+    photo: /speakers/2018/ane_diaz_de_tuesta.jpg
+    link: https://twitter.com/ane_naiz
+
+  - name: Nicolas Comet
+    photo: /speakers/2018/comet_nicolas.jpg
+    link: https://twitter.com/NicolasComet
+
+  - name: Benoit PRIOUX
+    photo: /speakers/2018/benoit_prioux.png
+    link: https://twitter.com/binout
+
+  - name: Céline LOUVET
+    photo: /speakers/2018/celine_louvet.jpg
+    link: https://twitter.com/celine_louvet
+
+  - name: Frédéric Cabestre
+    photo: /speakers/2018/frederic_cabestre.png
+    link: https://twitter.com/fcabestre
+
+  - name: Arnaud BOS
+    photo: /speakers/2018/arnaud_bos.jpg
+    link: https://twitter.com/arnaud_bos
+
+  - name: Julien Topçu
+    photo: /speakers/2018/julien_topcu.jpeg
+    link: https://twitter.com/JulienTopcu
+
+  - name: Guillaume Membré
+    photo: /speakers/2018/guillaume_membre.jpg
+    link: https://twitter.com/GuillaumeMembre
+
+  - name: Robert Firek
+    photo: /speakers/2018/robert_firek.jpg
+    link: https://twitter.com/RobertFirek
+
+  - name: Guillaume Laforge
+    photo: /speakers/2018/guillaume_laforge.jpeg
+    link: https://twitter.com/glaforge
+
+  - name: Benoit El Amrani
+    photo: /speakers/2018/benoit_el_amrani.jpg
+    link: https://twitter.com/bentah31
+
+  - name: Tugdual Grall
+    photo: /speakers/2018/tugdual_grall.jpg
+    link: https://twitter.com/tgrall
+
+  - name: David Pilato
+    photo: /speakers/2018/david_pilato.jpg
+    link: https://twitter.com/dadoonet
+
+  - name: Olivier Flebus
+    photo: /speakers/2018/olivier_flebus.jpg
+    link: https://twitter.com/olivierflebus
+
+  - name: Alexandre Delattre
+    photo: /speakers/2018/alexandre_delattre.jpg
+    link: https://twitter.com/alexandre_del31
+
+  - name: Sébastien Guilloux
+    photo: /speakers/2018/sebastien_guilloux.jpg
+    link: https://twitter.com/_sebgl
+
+  - name: Miro Cupak
+    photo: /speakers/2018/miro_miro_cupak.jpg
+    link: https://twitter.com/mirocupak
+
+  - name: Jean-francois Garreau
+    photo: /speakers/2018/jean-francois_garreau.jpg
+    link: https://twitter.com/jefBinomed
+
+  - name: Anastasia Lieva
+    featured: true
+    photo: /speakers/2018/anastasia_lieva.jpg
+    link: https://twitter.com/lievAnastazia
+
+  - name: Victor Kropp
+    photo: /speakers/2018/victor_kropp.jpg
+    link: https://twitter.com/kropp
+
+  - name: Giulia Bianchi
+    featured: true
+    photo: /speakers/2018/giulia_bianchi.jpg
+    link: https://twitter.com/Giuliabianchl
+
+  # 2017
+
+  - name: Mathias ORTNER
+    photo: /speakers/2017/mathias-ortner.png
+    link:
+
+  - name: Emile Vauge
+    photo: /speakers/2017/emile-vauge.png
+    link: https://twitter.com/emilevauge/
+
+  - name: Alain Regnier
+    photo: /speakers/2017/alain-regnier.jpg
+    link: https://twitter.com/altolabs/
+
+  - name: Charlotte Cavalier
+    photo: /speakers/2017/charlotte-cavalier.jpg
+    link: https://twitter.com/cavalierch/
+
+  - name: Philippe Charrière
+    photo: /speakers/2017/philippe-charriere.jpg
+    link: https://twitter.com/k33g_org/
+
+  - name: Didier Plaindoux
+    photo: /speakers/2017/didier-plaindoux.jpeg
+    link: https://twitter.com/dplaindoux
+
+  - name: Nicolas De Loof
+    photo: /speakers/2017/nicolas-de-loof.jpg
+    link: https://twitter.com/ndeloof/
+
+  - name: Emmanuel DEMEY
+    photo: /speakers/2017/emmanuel-demey.jpg
+    link: https://twitter.com/EmmanuelDemey/
+
+  - name: Thomas Gx
+    photo: /speakers/2017/thomas-gx.jpg
+    link: https://twitter.com/ThomasGX
+
+  - name: Etienne Issartial
+    photo: /speakers/2017/etienne-issartial.jpg
+    link:
+
+  - name: Cyril Balit
+    photo: /speakers/2017/cyril-balit.jpeg
+    link: https://twitter.com/cbalit
+
+  - name: Samia Drappeau
+    photo: /speakers/2017/samia-drappeau.jpg
+    link: https://twitter.com/samiadrappeau
+
+  - name: Florent Pajot
+    photo: /speakers/2017/florent-pajot.jpg
+    link:
+
+  - name: Paul Dijou
+    photo: /speakers/2017/paul-dijou.jpeg
+    link: https://twitter.com/paul_dijou
+
+  - name: Fanny Martin
+    photo: /speakers/2017/fanny-martin.jpg
+    link:
+
+  - name: Matthieu Bernardin
+    photo: /speakers/2017/matthieu-bernardin.png
+    link:
+
+  - name: Bill Metangmo Tsobze
+    photo: /speakers/2017/bill-metangmo-tsobze.jpg
+    link: https://twitter.com/BillMetangmo
+
+  - name: Didier Girard
+    photo: /speakers/2017/didier-girard.jpg
+    link: https://twitter.com/didiergirard
+
+  - name: Florian Chauveau
+    photo: /speakers/2017/florian-chauveau.jpeg
+    link: https://twitter.com/florianchauveau
+
+  - name: Cédric Gatay
+    photo: /speakers/2017/cedric-gatay.jpg
+    link: https://twitter.com/Cedric_Gatay
+
+  - name: Boris-Wilfried Nyasse
+    photo: /speakers/2017/boris-wilfried-nyasse.jpg
+    link: https://twitter.com/bwnyasse
+
+  - name: Kévin Segaud
+    photo: /speakers/2017/kevin-segaud.jpg
+    link: https://twitter.com/kevin_segaud
+
+  - name: Alex Danvy
+    photo: /speakers/2017/alex-danvy.jpg
+    link: https://twitter.com/danvy
+
+  - name: Logan Mauzaize
+    photo: /speakers/2017/logan-mauzaize.jpeg
+    link: https://twitter.com/loganmzz
+
+  - name: Olivier Philippot
+    photo: /speakers/2017/olivier-philippot.jpg
+    link: https://twitter.com/simplygreenit
+
+  - name: Alexis Tual
+    photo: /speakers/2017/alexis-tual.jpg
+    link: https://twitter.com/alex_tual
+
+  - name: Arnaud Giuliani
+    photo: /speakers/2017/arnaud-giuliani.jpg
+    link: https://twitter.com/arnogiu
+
+  - name: Damien Cavaillès
+    photo: /speakers/2017/damien-cavailles.jpg
+    link: https://twitter.com/TheDamfr
+
+  - name: Mélanie Bats
+    photo: /speakers/2017/melanie-bats.jpeg
+    link: https://twitter.com/melaniebats
+
+  - name: Pauline Iogna
+    photo: /speakers/2017/pauline-iogna.jpg
+    link: https://twitter.com/pauline_io
+
+  - name: Régis MARIE-JOSEPH
+    photo: /speakers/2017/regis-marie-joseph.jpg
+    link: https://twitter.com/arawak971
+
+  - name: Igor Laborie
+    photo: /speakers/2017/igor-laborie.jpg
+    link: https://twitter.com/ilaborie
+
+    # 2016
+  - name: Elisabel Généreux
+    photo: /speakers/2016/eli_bean.jpeg
+    link: https://twitter.com/eli_bean
+
+  - name: Martin Gorner
+    photo: /speakers/2016/martin_gorner.jpg
+    link: 'https://twitter.com/martin_gorner'
+
+  - name: Sebastian Witalec
+    featured: true
+    photo: /speakers/2016/sebawita.jpg
+    link: 'https://twitter.com/sebawita'
+
+  - name: Sofiya Huts
+    featured: true
+    photo: /speakers/2016/sofiya_huts.jpg
+    link: 'https://twitter.com/sofiya_huts'
+
+  - name: Romain Mouton
+    photo: /speakers/2016/mouton.jpeg
+    link: ''
+
+  - name: Olivier Guillet
+    photo: /speakers/2016/OlivierGuillet.png
+    link: 'https://twitter.com/OlivierGuillet'
+
+  - name: Thierry Chatel
+    photo: /speakers/2016/ThierryChatel.jpg
+    link: 'https://twitter.com/ThierryChatel'
+
+  - name: Antoine Vernois
+    photo: /speakers/2016/avernois.jpg
+    link: 'https://twitter.com/avernois'
+
+  - name: Aurélie Vache
+    photo: /speakers/2016/aurelie.jpg
+    link: 'https://twitter.com/aurelievache'
+
+  - name: Cédric Cormont
+    photo: /speakers/2016/cedric_cormont.jpeg
+    link: 'https://twitter.com/cedric_cormont'
+
+  - name: Delphine Nobileau
+    photo: /speakers/2016/nobileau.jpeg
+    link:
