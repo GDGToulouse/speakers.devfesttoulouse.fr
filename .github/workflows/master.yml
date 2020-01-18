@@ -16,7 +16,7 @@ jobs:
           hugo-version: '0.61.0'
           # extended: true
       - name: Build
-        run: ./build.sh
+        run: hugo -DF --baseURL ${{ secrets.BASE_URL }}
       - name: Deploy to Firebase
         uses: w9jds/firebase-action@master
         with:
