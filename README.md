@@ -8,14 +8,9 @@ Website to showcase the previous speakers we had, list all the benefits and answ
 hugo serve
 ```
 
-## Prod Build
-
-```
-hugo -DF --baseURL https://speakers.devfesttoulouse.fr/
-```
-
 ## Deploy
 
-```
-firebase deploy
-```
+Deployment is automated. All you need to provide are those Github Actions secrets:
+
+- `BASE_URL` for us it is `https://speakers.devfesttoulouse.fr/`
+- `FIREBASE_TOKEN` Run `firebase login:ci` locally to get the token
