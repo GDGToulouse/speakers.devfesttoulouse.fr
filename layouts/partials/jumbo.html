@@ -5,13 +5,18 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 text-center mx-auto">
+          {{ if .announcement }}
+            <div class="announcement">
+            {{.announcement | markdownify}}
+            </div>
+          {{ end }}
           <h1 class="text-white mb-3">{{ .title }}</h1>
           <p class="text-white mb-4">{{ .description }}</p>
           {{ range .buttons}}
           <a
             href="{{ .url }}"
             target="_blank"
-            class="btn btn-light"
+            class="btn btn-light {{ if .disabled }}disabled{{ end }}"
             >{{ .text }}</a
           >
           {{ end }}
