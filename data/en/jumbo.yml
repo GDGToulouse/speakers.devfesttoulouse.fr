@@ -3,14 +3,27 @@ enable: true
 description: ''
 image: 'images/banner.jpg'
 announcement: >
-  <h3>Dear attendees, speakers, sponsors & supporters,</h3>
+  <h3>Dear Attendees, Speakers, Sponsors & Supporters,</h3>
   <br/>
   <p>It is with a heavy heart that <b>we are forced to cancel DevFest Toulouse 2020</b>.</p>
   <p>Indeed our goal with DevFest Toulouse has always been to create a unique atmosphere to meet the community, learn from the best and share knowledge.</p>
   <p>The Covid19 pandemic has stopped us from doing so. As of now we still have a lot of unanswered questions, and we feel that as volunteers, the  remaining time until November is too short to organize a good edition. That's the reason why today we renounce.</p>
   <p>That being said, be sure that <b>we are actively working for the 2021 edition</b>!</p>
-  <p>Take care,<br/>
+  <p>Take care of yourselves,<br/>
   the DevFest Toulouse team</p>
+
+  <br/>
+  ------
+  <br/>
+  <br/>
+
+  <h3>Chers Participants, Speakers, Sponsors et Partenaires.</h3>
+  <p>C'est avec regret que <b>nous sommes forcés d'annuler le DevFest Toulouse 2020</b>.</p>
+  <p>Le but du Devfest Toulouse a toujours été de créer une atmosphère unique pour que la communauté se rencontre, apprenne des meilleurs et partage sa connaissance.</p>
+  <p>La pandémie Covid19 nous en a empêchés. Nous avons encore beaucoup de questions sans réponses et en tant que bénévoles, le temps qu'il nous reste jusqu'à novembre nous semble trop court pour organiser un événement de qualité. C'est pourquoi nous préférons garder notre énergie en renonçant au Devfest Toulouse 2020.</p>
+  <p>Bien entendu, le travail commencé n'est pas perdu et <b>nous sommes déjà en train de travailler sur le DevFest Toulouse 2021</b>.</p>
+  <p>Prenez soin de vous,<br/>
+  L'équipe du DevFest</p>
 
 # buttons:
 #   - text: Apply now!
